@@ -1,0 +1,15 @@
+/Blinky/bin
+**/obj
+/Blinky/DTAR_08E86330_4835_4B5C_9E5A_61F37AE1A077_DTAR
+
+*.cache
+**/Debug
+/UploadAzureSuite/Azure-IoT-Workshop-Sample/PhysicalDevice/obj
+/LocalTemperatureSensor/DS18B20_1WireBus/obj/ARM/Debug
+/LocalTemperatureSensor/DS18B20_1WireBus/obj/x86/Debug
+/LocalTemperatureSensor/DS18B201WireLib/obj/Debug
+/LocalTemperatureSensor/DS18B201WireLib/obj/ARM/Debug
+/UploadAzureSuite/Azure-IoT-Workshop-Sample/SimulatedDevice/bin/Debug
+/UploadAzureSuite/Azure-IoT-Workshop-Sample/SimulatedDevice/obj/Debug
+/LocalTemperatureSensor/DS18B20_1WireBus/bin/ARM/Debug
+/UploadAzureSuite/Azure-IoT-Workshop-Sample/PhysicalDevice/bin/ARM/Debug
